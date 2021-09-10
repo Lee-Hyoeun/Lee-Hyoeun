@@ -31,12 +31,12 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Lee-Hyoeun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/Lee-Hyoeun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Hyoeun&layout=compact&theme=algolia)](https://github.com/Lee-Hyoeun/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:gydms0136@naver.com"><img src="https://img.shields.io/badge/-gydms0136@naver.com-D14836?style=flat&logo=Naver&logoColor=white"/></a>
+<a href="mailto:gydms0136@naver.com"><img src="https://img.shields.io/badge/-gydms0136@naver.com-36D148?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="mailto:gydms0136@gmail.com"><img src="https://img.shields.io/badge/-gydms0136@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
