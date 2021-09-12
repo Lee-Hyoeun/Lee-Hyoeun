@@ -38,5 +38,5 @@
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:gydms0136@naver.com"><img src="https://img.shields.io/badge/-gydms0136@naver.com-36D148?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="mailto:gydms0136@gmail.com"><img src="https://img.shields.io/badge/-gydms0136@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/angieangel.dev"><img src="https://img.shields.io/badge/-@angieangel.dev__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
