@@ -39,4 +39,4 @@
 <a href="mailto:gydms0136@naver.com"><img src="https://img.shields.io/badge/-gydms0136@naver.com-36D148?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="mailto:gydms0136@gmail.com"><img src="https://img.shields.io/badge/-gydms0136@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/angieangel.dev"><img src="https://img.shields.io/badge/-@angieangel.dev__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://project-angieangel.tistory.com/"><img src="https://img.shields.io/badge//?style=flat&logo=Daum&logoColor=white"/></a>
+<a href="https://project-angieangel.tistory.com/"><img src="https://img.shields.io/badge/-@project-angieangel-FF8000/?style=flat&logo=Daum&logoColor=white"/></a>
